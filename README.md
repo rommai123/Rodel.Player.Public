@@ -57,3 +57,11 @@
 > 自定义弹幕 API 要求兼容 [弹弹Play API v2](https://api.dandanplay.net/swagger/index.html#/) 的 API 规范，可以考虑部署 [anoraker/abetsy](https://hub.docker.com/r/anoraker/abetsy)
 
 其中，如果你用哔哩哔哩弹幕源，最好在设置里登录你的B站账号，因为大量资源只有大会员才能够访问，不然你可能只能获得前两分钟试看版本的弹幕。
+
+## 致谢
+
+- 感谢 [dyphire](https://github.com/dyphire) 和 [𝓒𝙝𝙞𝙠ōえい](https://t.me/FG_Radio_Station) 在软件开发期间给予的大力支持。
+- 感谢每一位相信开发者并愿意借账户以供测试的同学。
+- 感谢所有使用此软件的用户。
+
+除此之外，感谢在软件开发期间所使用的开源库的每一位维护者和贡献者。虽然因为付费原因，小幻影视本体并不开源，但开发过程中创建的组件都会尽量开源，或者在开源软件（比如哔哩助理）中展示实现方式，以回馈开源社区。
