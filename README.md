@@ -9,7 +9,7 @@
 畅享观影时光
 
 <p align="center">
-    <a title="Get From Microsoft Store" href="https://apps.microsoft.com/detail/9PFZCKRHW0BC?launch=true&mode=full" target="_blank">
+    <a title="Get From Microsoft Store" href="https://apps.microsoft.com/detail/9NB0H051M4V4?launch=true&mode=full" target="_blank">
     下载应用
     </a>
     |
@@ -60,7 +60,7 @@
 
 ## 致谢
 
-- 感谢 [dyphire](https://github.com/dyphire) 和 [𝓒𝙝𝙞𝙠ōえい](https://t.me/FG_Radio_Station) 在软件开发期间给予的大力支持。
+- 感谢 [dyphire](https://github.com/dyphire) 和 [未来ガジェット電波局](https://t.me/FG_Radio_Station) 在软件开发期间给予的大力支持。
 - 感谢每一位相信开发者并愿意借账户以供测试的同学。
 - 感谢所有使用此软件的用户。
 
